@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adhamdarwish91.github.io/adhamdarwish.github.io/sitemap.xml
